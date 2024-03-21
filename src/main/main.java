@@ -10,6 +10,12 @@ import java.util.Hashtable;
 import java.util.Scanner;
 import java.util.Set;
 
+/**
+ * 
+ * @author Charles Arroyo
+ *
+ */
+
 public class main {
 	public static void main(String[] args) {
 		// Please enter file name
